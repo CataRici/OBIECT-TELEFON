@@ -1,0 +1,8 @@
+﻿  clasa2.cpp
+  Telefon.cpp
+D:\Visual Studio Codes\clase\clasa2\Telefon.cpp(7,18): error C2082: redefinition of formal parameter 'nrTelefon'
+D:\Visual Studio Codes\clase\clasa2\Telefon.cpp(13,14): error C2082: redefinition of formal parameter 'model'
+D:\Visual Studio Codes\clase\clasa2\Telefon.cpp(19,20): error C2082: redefinition of formal parameter 'greutate'
+D:\Visual Studio Codes\clase\clasa2\Telefon.cpp(22,19): error C2082: redefinition of formal parameter 'culoare'
+D:\Visual Studio Codes\clase\clasa2\Telefon.cpp(28,17): error C2082: redefinition of formal parameter 'brand'
+  Generating Code...
